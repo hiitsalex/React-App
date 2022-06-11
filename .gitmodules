@@ -1,0 +1,3 @@
+[submodule "React-APP"]
+	path = React-APP
+	url = https://github.com/hiitsalex/React-App
